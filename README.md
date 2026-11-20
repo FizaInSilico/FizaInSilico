@@ -2,7 +2,7 @@
 
 ### BS Bioinformatics Student | Aspiring Computational Biologist
 
-I'm a BS Bioinformatics student interested in understanding complex biological systems through computational approaches, data analysis, and artificial intelligence. My work sits at the intersection of biology, computation, and drug discovery, with a focus on applying computational tools to biological and biomedical research.
+I'm a BS Bioinformatics student interested in understanding complex biological systems through computational approaches, data analysis and artificial intelligence. My work sits at the intersection of biology, computation and drug discovery, with a focus on applying computational tools to biological and biomedical research.
 
 ---
 
@@ -56,7 +56,7 @@ I'm a BS Bioinformatics student interested in understanding complex biological s
 
 ##  Career Goal
 
-To contribute to computational biology and biomedical research by integrating bioinformatics, artificial intelligence, and computational drug discovery.
+To contribute to computational biology and biomedical research by integrating bioinformatics, artificial intelligence and computational drug discovery.
 
 ---
 
